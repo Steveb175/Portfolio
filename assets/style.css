@@ -185,6 +185,7 @@ nav ul li a:focus{
     background-color: #2589bd;
     border: solid transparent 1px;
     border-radius: 10px;
+    object-fit: contain;
 }
 /*Sidebar end*/
 
